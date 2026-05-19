@@ -14,7 +14,7 @@ This repository contains simple C++ programs demonstrating **Abstraction** and *
 
 ---
 
-## 💡 Key Idea
+## 💡 Key Idea:
 
 > One interface, multiple implementations.
 
@@ -22,7 +22,7 @@ A base abstract class defines a contract, and derived classes implement their ow
 
 ---
 
-## 🚀 Programs Included
+## 🚀 Programs Included:-
 
 ### 1. Shape System 🎨
 - Classes: `Circle`, `Rectangle`, `Triangle`
