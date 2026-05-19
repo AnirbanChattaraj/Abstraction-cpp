@@ -65,7 +65,7 @@ After practicing these examples, you will understand:
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack:-
 
 - Language: C++
 - Concepts: OOP (Abstraction + Polymorphism)
